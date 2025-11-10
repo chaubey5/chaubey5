@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Rishabh Chaubey  
+## Hi there 👋 I'm Rishabh Chaubey  <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/8120ca40-1024-4718-aa0d-6631e358ec8d" />
+
 
 🎓 **B.Tech CSE Student** at Lovely Professional University, Phagwara (2023–2027)  
 💡 Passionate about **AI, Data Science, and Software Development**  
